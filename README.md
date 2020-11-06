@@ -35,16 +35,16 @@ Every *Coursera Guided Project* lasts from 1 to 3 hours. We are considering taki
 
 |                             Name                             | Time (hours) |  Level   |         Topics          |  PP  |
 | :----------------------------------------------------------: | :----------: | :------: | :---------------------: | :--: |
-| Create Your First Chatbot with Rasa and Python ([link](https://www.coursera.org/projects/chatbot-rasa-python)) |      2       | Beginner |    NLU, Chatbot Dev     |  5   |
-| NLP: Twitter Sentiment Analysis ([link](https://www.coursera.org/projects/twitter-sentiment-analysis)) |      2       | Beginner |    NLP, Naive Bayes     |  5   |
-| Deep Learning NLP: Training GPT-2 from scratch ([link](https://www.coursera.org/projects/deep-learning-nlp-gpt-2)) |      2       | Beginner |    NLP, Transformers    |  5   |
-| Fake News Detection with Machine Learning ([link](https://www.coursera.org/projects/nlp-fake-news-detector)) |      2       | Beginner |     NLP, RNNs, LSTM     |  5   |
-| Basic Image Classification with TensorFlow ([link](https://www.coursera.org/projects/tensorflow-beginner-basic-image-classification)) |      2       | Beginner |     NNs, Tensorflow     |  5   |
-| English/French Translator: Long Short Term Memory Networks ([link](https://www.coursera.org/projects/nlp-english-to-french-translation)) |     1.5      | Beginner |     NLP, RNNs, LSTM     |  5   |
-| Facial Expression Classification Using Residual Neural Nets ([link](https://www.coursera.org/projects/facial-expression-classification)) |      2       | Beginner |       DNNs, CNNs        |  5   |
-| Mining Quality Prediction Using Machine & Deep Learning ([link](https://www.coursera.org/projects/mining-quality-prediction)) |     1.5      | Beginner |       Regression        |  5   |
-|       Transfer Learning for Food Classification (link)       |      2       | Beginner | CNNs, Transfer Learning |  5   |
-| Regression with Automatic Differentiation in TensorFlow ([link](https://www.coursera.org/projects/regression-automatic-differentiation-tensorflow)) |     1.5      | Beginner | Regression, Tensorflow  |  5   |
+| [Create Your First Chatbot with Rasa and Python](https://www.coursera.org/projects/chatbot-rasa-python) |      2       | Beginner |    NLU, Chatbot Dev     |  5   |
+| [NLP: Twitter Sentiment Analysis](https://www.coursera.org/projects/twitter-sentiment-analysis) |      2       | Beginner |    NLP, Naive Bayes     |  5   |
+| [Deep Learning NLP: Training GPT-2 from scratch](https://www.coursera.org/projects/deep-learning-nlp-gpt-2) |      2       | Beginner |    NLP, Transformers    |  5   |
+| [Fake News Detection with Machine Learning](https://www.coursera.org/projects/nlp-fake-news-detector) |      2       | Beginner |     NLP, RNNs, LSTM     |  5   |
+| [Basic Image Classification with TensorFlow](https://www.coursera.org/projects/tensorflow-beginner-basic-image-classification) |      2       | Beginner |     NNs, Tensorflow     |  5   |
+| [English/French Translator: Long Short Term Memory Networks](https://www.coursera.org/projects/nlp-english-to-french-translation) |     1.5      | Beginner |     NLP, RNNs, LSTM     |  5   |
+| [Facial Expression Classification Using Residual Neural Nets](https://www.coursera.org/projects/facial-expression-classification) |      2       | Beginner |       DNNs, CNNs        |  5   |
+| [Mining Quality Prediction Using Machine & Deep Learning](https://www.coursera.org/projects/mining-quality-prediction) |     1.5      | Beginner |       Regression        |  5   |
+| [Transfer Learning for Food Classification](https://www.coursera.org/projects/transfer-learning-food-classification) |      2       | Beginner | CNNs, Transfer Learning |  5   |
+| [Regression with Automatic Differentiation in TensorFlow](https://www.coursera.org/projects/regression-automatic-differentiation-tensorflow) |     1.5      | Beginner | Regression, Tensorflow  |  5   |
 |                             ...                              |     ...      |   ...    |           ...           | ...  |
 
 **Getting Started** section in progress. **Available Projects** section subject to changes.
