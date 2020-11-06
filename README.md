@@ -18,8 +18,8 @@ Every *Coursera Guided Project* lasts from 1 to 3 hours. We are considering taki
 
 ## Guidelines
 
-1. This activity add *5 + i* participation points (PP) to every member of SIGAI, these points are valid in the context of our soon-to-be-released gamified impementation of SIGAI Membership at ACM-UTEC codenamed **CPI**. 
-2. i values are:
+1. This activity add *5 + i* participation points (PP) to every member of SIGAI, these points are valid in the context of our gamified impementation of SIGAI Membership at ACM-UTEC kown as "**Real Involvement Environment** (*RIE*)". 
+2. *i* values are:
    - 0 for Beginner Level Projects
    - 1 for Intermediate Level Projects
    - 2 for Advanced Level Projects 
@@ -47,4 +47,21 @@ Every *Coursera Guided Project* lasts from 1 to 3 hours. We are considering taki
 | Regression with Automatic Differentiation in TensorFlow ([link](https://www.coursera.org/projects/regression-automatic-differentiation-tensorflow)) |     1.5      | Beginner | Regression, Tensorflow  |  5   |
 |                             ...                              |     ...      |   ...    |           ...           | ...  |
 
-*Start Date* to be discussed. **Getting Started** section in progress. **Available Projects** section subject to changes.
+**Getting Started** section in progress. **Available Projects** section subject to changes.
+
+## Schedule
+
+| Activity                                   | Date                 |
+| ------------------------------------------ | -------------------- |
+| SOI and RIE (codename CPI) announced       | Early October 2020   |
+| SOI under RIE fully discused and explained | 06/11/20             |
+| SOI #1 (1st week)                          | 9/11/20 - 15/11/20   |
+| SOI #2 + SOI #1 Evaluation period          | 16/11/20 - 22/11/20  |
+| SOI #1 Results                             | 23/11/20             |
+| SOI #3 + SOI #2 Evaluation period          | 23/11/20 -  29/11/20 |
+| SOI #2 Results                             | 30/11/20             |
+| SOI #4 + SOI #3 Evaluation period          | 30/11/20 - 06/12/20  |
+| SOI #3 Results                             | 07/12/20             |
+| SOI #4 Evaluation Period + Results         | 07/12/20 - 10/12/20  |
+| RIE #1 Hall Of Fame Event                  | 11/12/20             |
+
